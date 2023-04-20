@@ -15,6 +15,10 @@ def print_hi(name) -> object:
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 x: int=10
 
+def get_fat():
+    pass
+
+frog = "green"
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
